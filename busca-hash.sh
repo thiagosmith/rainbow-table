@@ -1,4 +1,8 @@
 #!/bin/bash
+# Busca por hashes e criptgrafia em arquivo tabela.txt
+# Autor: Smith Braz - 5M1TH
+# Data: 01-03-2026
+# Use com responsabilidade
 
 # Arquivo de entrada
 ARQUIVO="tabela.txt"
