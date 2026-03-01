@@ -1,5 +1,5 @@
 #!/bin/bash
-# Gerar tablea de hashes e senhas a partir de uma lista de senhas
+# Gerar tabela de hashes e senhas a partir de uma lista de senhas
 # Autor: Smith Braz - 5M1TH
 # Data: 01-03-2026
 # Use com responsabilidade
