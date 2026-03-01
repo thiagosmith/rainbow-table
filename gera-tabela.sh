@@ -2,7 +2,7 @@
 # Gerar tabela de hashes e senhas a partir de uma lista de senhas
 # Autor: Smith Braz - 5M1TH
 # Data: 01-03-2026
-# Use com responsabilidade
+# Use com responsabilidade e ética
 
 # Verifica se o usuário passou um argumento
 if [ $# -eq 0 ]; then
