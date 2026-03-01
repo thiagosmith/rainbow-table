@@ -58,3 +58,11 @@ Digite o hash:
 5e884898da28047151d0e56f8dc6292773603d0d6aabbdd62a11ef721d1542d8
 Senha encontrada: password
 ```
+## Use com responsabilidade e ética.
+•	Finalidade legítima: usar para estudo, testes de segurança, ou para proteger dados próprios. Não deve ser usado para tentar quebrar senhas de terceiros sem autorização.
+
+•	Privacidade: hashes são frequentemente usados para proteger credenciais. Manipular ou armazenar senhas exige cuidado para não expor informações sensíveis.
+
+•	Legalidade: em muitos países, usar ferramentas para descobrir ou explorar senhas sem consentimento pode ser considerado crime digital.
+
+## Transparência: Scripts apenas para fins educacionais ou administrativos internos.
